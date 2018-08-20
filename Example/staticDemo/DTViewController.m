@@ -7,6 +7,7 @@
 //
 
 #import "DTViewController.h"
+#import "staticDemo.h"
 
 @interface DTViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+
 }
 
 - (void)didReceiveMemoryWarning
