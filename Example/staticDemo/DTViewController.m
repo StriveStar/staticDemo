@@ -7,7 +7,7 @@
 //
 
 #import "DTViewController.h"
-#import "staticDemo.h"
+#import "PrivateTest.h"
 
 @interface DTViewController ()
 

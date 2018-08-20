@@ -1,6 +1,6 @@
 {
   "name": "staticDemo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A short description of staticDemo.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/StriveStar/staticDemo",
@@ -13,10 +13,13 @@
   },
   "source": {
     "git": "https://github.com/StriveStar/staticDemo.git",
-    "tag": "0.0.1"
+    "tag": "0.0.2"
   },
   "platforms": {
     "ios": "8.0"
+  },
+  "ios": {
+    "vendored_frameworks": "staticDemo.framework"
   },
   "source_files": "staticDemo/Classes/**/*"
 }

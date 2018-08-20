@@ -1,16 +1,16 @@
 PODS:
-  - staticDemo (0.0.1)
+  - staticDemo (0.0.2)
 
 DEPENDENCIES:
-  - staticDemo
+  - staticDemo (from `../`)
 
-SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
-    - staticDemo
+EXTERNAL SOURCES:
+  staticDemo:
+    :path: "../"
 
 SPEC CHECKSUMS:
-  staticDemo: eb75b35480bcca0e565150ea2c5a4a263d743b17
+  staticDemo: cf7f44d3ff3052668237f87a9a4142773b3b30d7
 
-PODFILE CHECKSUM: e27da3918f2cb88875da4bd18c129c1f7c21eccf
+PODFILE CHECKSUM: 25084e3991077baa8fa1f819ba53fc99ba145e88
 
 COCOAPODS: 1.5.3

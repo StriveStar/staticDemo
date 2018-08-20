@@ -1,5 +1,5 @@
 //
-//  staticDemo.h
+//  PrivateTest.h
 //  Pods-staticDemo_Example
 //
 //  Created by 刘鑫鑫 on 2018/8/20.
@@ -7,9 +7,8 @@
 
 #import <Foundation/Foundation.h>
 
-@interface staticDemo : NSObject
+@interface PrivateTest : NSObject
 
-
-+(void)staticTest;
++(void) test;
 
 @end

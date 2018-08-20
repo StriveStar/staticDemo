@@ -1,8 +1,8 @@
 use_frameworks!
 
 target 'staticDemo_Example' do
-#  pod 'staticDemo', :path => '../'
-  pod 'staticDemo'
+    #pod 'staticDemo', :path => '../'
+  pod 'staticDemo', '0.0.3'
   target 'staticDemo_Tests' do
     inherit! :search_paths
 
