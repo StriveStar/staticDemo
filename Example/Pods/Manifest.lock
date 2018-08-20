@@ -1,5 +1,5 @@
 PODS:
-  - staticDemo (0.1.0)
+  - staticDemo (0.0.1)
 
 DEPENDENCIES:
   - staticDemo (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  staticDemo: 7fc9cfe376c03b07d5483b9d2e0ff5d92cabacec
+  staticDemo: a8e9a0967862b9553b0c5ae2b0061e9d54cb71bb
 
 PODFILE CHECKSUM: 6accef0dbcbd23cdacb5f519bff39dd90231a7f8
 
