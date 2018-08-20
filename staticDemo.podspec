@@ -1,4 +1,4 @@
-#
+
 # Be sure to run `pod lib lint staticDemo.podspec' to ensure this is a
 # valid spec before submitting.
 #
@@ -29,7 +29,7 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
-
+  s.ios.vendored_framework = 'staticDemo.framework'
   s.source_files = 'staticDemo/Classes/**/*'
   
   # s.resource_bundles = {
